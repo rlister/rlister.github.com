@@ -19,6 +19,10 @@ h3 {
   margin-bottom: 0em;
 }
 
+h3 a {
+  color: inherit;
+}
+
 p {
   line-height: 140%;
 }
@@ -34,7 +38,7 @@ span.date {
 
 a {
   text-decoration: none;
-  color: #aaa;
+  color: #888;
 }
 
 a:hover {
